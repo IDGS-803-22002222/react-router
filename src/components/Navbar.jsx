@@ -8,10 +8,10 @@ const Navbar = () => {
         Home
       </NavLink>
       <NavLink to="/about" className="btn btn-outline-primary">
-        Home
+        About
       </NavLink>
       <NavLink to="/blog" className="btn btn-outline-primary">
-        Home
+        Blog
       </NavLink>
     </nav>
   );
